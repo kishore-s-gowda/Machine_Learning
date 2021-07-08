@@ -1,11 +1,7 @@
-# Machine_Learning
+# Machine Learning Projects
 
-## Problem Statement
+## Contents
 
-Shiva has started his own mobile company. He wants to give tough fight to big companies like Apple,Samsung etc.
-
-He does not know how to estimate price of mobiles his company creates. In this competitive mobile phone market you cannot simply assume things. To solve this problem he collects sales data of mobile phones of various companies.
-
-Shiva wants to find out some relation between features of a mobile phone(eg:- RAM,Internal Memory etc) and its selling price. But he is not so good at Machine Learning. So he needs help to solve this problem.
-
-In this problem you do not have to predict actual price but a price range indicating how high the price is.
+* [Mobile Price Range Prediction](https://github.com/kishore-s-gowda/Machine_Learning/tree/main/Mobile%20Price%20Range%20Prediction(Classification))
+* [Anime Recommendation System](https://github.com/kishore-s-gowda/Machine_Learning/tree/main/Recommendation%20System)
+* [Seoul Bike Rental prediction using linear regression](https://github.com/kishore-s-gowda/Machine_Learning/tree/main/Seoul%20Bike%20Rental%20prediction%20using%20linear%20regression)
