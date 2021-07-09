@@ -51,7 +51,7 @@ In this problem you do not have to predict actual price but a price range indica
 
 **wifi**-Has wifi or not
 
-### These are the results of diffrent algorithms used
+### These are the results of different algorithms used
 <br/>
 <p align="Left">
   <img src="https://github.com/kishore-s-gowda/kishore-s-gowda/blob/main/images/MobilePrice1.JPG"
@@ -74,3 +74,5 @@ In this problem you do not have to predict actual price but a price range indica
        width="1000" 
      height="500"/>
 </p>
+
+So from feature importance plot, we can we see that RAM is the most important feature which decides the mobile price
